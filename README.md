@@ -16,7 +16,7 @@ I'm a newcomer to the GitHub community, eager to learn and grow. My primary goal
 
 ## Goals
 
-My main objective is to:
+My main objective:
 - Share regular updates on my GitHub repositories.
 - Contribute to open-source projects.
 - Learn from the GitHub community and develop my skills.
