@@ -1,12 +1,10 @@
 ### Hi there, My name is yutong. 👋
 
 - 🌍 Location: Taipei, Taiwan
-- 📧 Email: Your Email
-- 🔗 Website/Blog: Your Website/Blog Link
 
 ## About Me
 
-I'm a newcomer to the GitHub community, eager to learn and grow. My primary goal is to actively contribute, share my insights, and collaborate with fellow developers.
+I've been on GitHub for a while, but now I'm committed to actively building my presence and contributing more to the community. My goal is to share knowledge, collaborate on exciting projects, and learn from the amazing GitHub community.
 
 ## Interests
 
@@ -25,7 +23,8 @@ My main objective:
 **laiyutong/laiyutong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 📧 Email: Your Email
+- 🔗 Website/Blog: Your Website/Blog Link
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
