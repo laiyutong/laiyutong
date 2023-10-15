@@ -11,7 +11,7 @@ I've been on GitHub for a while, but now I'm committed to actively building my p
 - 🍔 Foodie: I'm a passionate food lover, and I enjoy exploring different cuisines and trying new dishes.
 - 🌊 Beach Enthusiast: I find solace in the sound of the waves and love spending time at the beach.
 - ✈️ Travel: Exploring new places and experiencing different cultures is my idea of a perfect vacation.
-- 📷 Photography: I have a keen interest in photography and enjoy capturing beautiful moments.
+- 📷 Photography: I have a interest in photography and enjoy capturing beautiful moments.
 
 ## Goals
 
